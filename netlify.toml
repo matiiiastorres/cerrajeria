@@ -1,3 +1,2 @@
 [build]
-  command = "npm run build"
-  publish = "dist" # o "build" o "out", según tu framework
+  publish = "dist"
